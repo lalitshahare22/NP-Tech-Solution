@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 22 Mar 2026 00:48:17 at https://www.tawatechnology.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.tawatechnology.com -O1 "D:\NPTC" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:48:30	Error: 	"Not Found" (404) at link https://www.tawatechnology.com/assets/img/hero-placeholder.jpg (from https://www.tawatechnology.com/)
+00:48:30	Warning: 	Retry after error 409 (Conflict) at link https://www.tawatechnology.com/contact.php (from https://www.tawatechnology.com/)
+00:48:44	Warning: 	Retry after error 409 (Conflict) at link https://www.tawatechnology.com/contact.php (from https://www.tawatechnology.com/)
+00:48:44	Error: 	"Not Found" (404) at link https://www.tawatechnology.com/cotact.php (from https://www.tawatechnology.com/software.php)
+00:48:46	Error: 	"Not Found" (404) at link https://www.tawatechnology.com/assets/img/legal-placeholder.jpg (from https://www.tawatechnology.com/privacy-policy.php)
+00:48:46	Error: 	"Conflict" (409) after 2 retries at link https://www.tawatechnology.com/contact.php (from https://www.tawatechnology.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 58 links scanned, 51 files written (4589485 bytes overall) [4388822 bytes received at 146294 bytes/sec], 324592 bytes transferred using HTTP compression in 17 files, ratio 33%, 11.6 requests per connection
+(4 errors, 2 warnings, 0 messages)
